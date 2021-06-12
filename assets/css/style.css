@@ -611,7 +611,7 @@ a.box_btn:hover:before {
 	width: 60px;
 	height: 60px;
 	border: 1px solid #ddd;
-	background-color: #801a50 ;
+	background-color: #ddc5d2 ;
 	line-height: 60px;
 	margin-bottom: 30px;
 	border-radius: 50%;
@@ -620,7 +620,7 @@ a.box_btn:hover:before {
 }
 .single-service:hover i.fa {
 	color: #fff;
-	border-color: #FF7200;
+	border-color: #0c0907;
 	border-radius: 0;
 }
 .single-service h4 {
